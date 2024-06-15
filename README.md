@@ -11,8 +11,11 @@ I imported eight .csv files from the “data” folder into the SQL database; th
 
 The "ERDs" folder contains the Entity Relationship Diagrams of the tables. 
 
+Entity Relationship Diagram for Queries 1 through 4
+
 ![Entity Relationship Diagram for Queries 1 through 4](EmployeeSQL/ERDs/QuickERD_Q1_Q4.png)
 
+Entity Relationship Diagram for Queries 5 through 8
 ![Entity Relationship Diagram for Queries 5 through 8](EmployeeSQL/ERDs/QuickERD_Q5_Q8.png)
 
 ## Solved folder
