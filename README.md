@@ -3,7 +3,7 @@ Presented by Melissa Morales
 
 The "EmployeeSQL" folder contains all relevant files.
 
-## data folder
+## Data folder
 
 I imported eight .csv files from the “data” folder into the SQL database; the files are departments.csv, dept_emp.csv, dept_manager.csv, employees.csv, salaries.csv, and titles.csv.
 
