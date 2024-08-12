@@ -18,7 +18,7 @@ Entity Relationship Diagram for Queries 1 through 4
 Entity Relationship Diagram for Queries 5 through 8
 ![Entity Relationship Diagram for Queries 5 through 8](EmployeeSQL/ERDs/QuickERD_Q5_Q8.png)
 
-## Solved folder
+## SQL Scripts folder
 
 The "SQL Scripts" Folder contains two .sql files: analysis.sql and schema.sql. 
 
