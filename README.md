@@ -5,7 +5,7 @@ The "EmployeeSQL" folder contains all relevant files.
 
 ## Data folder
 
-I imported eight .csv files from the “data” folder into the SQL database; the files are departments.csv, dept_emp.csv, dept_manager.csv, employees.csv, salaries.csv, and titles.csv.
+I imported eight .csv files from the “csv files” folder into the SQL database; the files are departments.csv, dept_emp.csv, dept_manager.csv, employees.csv, salaries.csv, and titles.csv.
 
 ## ERDs folder
 
@@ -20,8 +20,8 @@ Entity Relationship Diagram for Queries 5 through 8
 
 ## Solved folder
 
-The "Solved" contains two .sql files: morales_queries_updated.sql and morales_table_schemata_updated.sql. 
+The "SQL Scripts" Folder contains two .sql files: analysis.sql and schema.sql. 
 
-"morales_queries_updated.sql" contains the .sql file of my queries.
+"analysis.sql" contains the .sql file of my queries.
 
-"morales_table_schemata_updated.sql" contains the .sql file of my table schemata.
+"schema.sql" contains the .sql file of my table schemas.
